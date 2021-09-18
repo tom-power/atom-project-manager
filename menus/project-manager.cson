@@ -24,6 +24,10 @@
           'label': 'Update Projects',
           'command': 'project-manager:update-projects'
         }
+        {
+          'label': 'Create Project',
+          'command': 'project-manager:create-project'
+        }
       ]
     ]
   }
